@@ -1,0 +1,3 @@
+# Raseduskalender
+
+Kasutaja sisestab raseduse alguse kuupäeva, raseduse alguse kaalu ning pikkuse. Programm kuvab seejärel eeldatava beebi sünnikuupäeva, määrab ära I, II ja III trimestri perioodid. Sisestatud info pinnalt saab kasutaja jälgida, mis staadiumis beebiootus nädalate kaupa on, mis on tulevase ema normaalne kaalutõus nädalate kaupa (välistamaks rasedusdiabeedi ohtu), infot beebi pikkuse ja kaalu osas. Esialgne plaan selline, raskustaset saab erinevate lisavidinatega kindlasti kasvatada.
